@@ -56,7 +56,7 @@ Responde las siguientes preguntas en tu análisis:
 ---
 
 ## **Mejoras Adicionales**
-
+ 
 - **Validación de Entradas del Usuario:**
   - Implementa validaciones para evitar errores si el usuario ingresa texto en lugar de números.
   - Ejemplo: Si se pide una calificación, asegúrate de que el valor ingresado sea numérico y esté dentro de un rango válido.
